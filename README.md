@@ -1,8 +1,13 @@
-```Ubuntu 24.04 LTS```
+# Jira Data Center
 
-1) ```PostgreSQL 15```
-2) ```Java 17```
-3) ```Confluence 7.19.5 && 9.2.2```
+
+```Ubuntu 24.04 LTS```
+```PostgreSQL 15```
+```Java 17```
+```Jira 10.4.1```
+
+
+
 
 ```
 wget https://product-downloads.atlassian.com/software/confluence/downloads/atlassian-confluence-7.19.5-x64.bin
@@ -29,6 +34,10 @@ bash /opt/atlasian/confluence/bin/startup.sh
 
 take key from http://yourserver.com:8090 and put in the script
 ```
+
+
+
+
 
 
 ```java -jar /opt/atlassian/atlassian-agent/atlassian-agent.jar -mail 'my@email.com' -n userName -o CompanyName -p conf -s XXXX-XXXX-XXXX-XXXX```
