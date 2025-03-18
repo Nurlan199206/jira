@@ -1,7 +1,7 @@
 # Jira Data Center
 
 
-```Ubuntu 24.04 LTS```
+```Ubuntu 22.04.05 LTS```
 
 ```PostgreSQL: 14```
 
