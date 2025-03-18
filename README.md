@@ -15,8 +15,8 @@ sudo chown -R confluence:confluence /opt/atlassian/atlassian-agent
 
 cp atlassian-agent.jar /opt/atlassian/atlassian-agent
 
-add on the start the line ```/opt/atlassian/jira/confluence/bin/setenv.sh```
-```export JAVA_OPTS="JAVA_OPTS="-javaagent:/opt/atlassian/jira/atlassian-agent/atlassian-agent.jar -Dcom.sun.jndi.ldap.object.disableEndpointIdentification=true -Djira.autoexport=false -Dplugin.version.check.enabled=false" ${JAVA_OPTS}"```
+add on the start the line /opt/atlassian/jira/confluence/bin/setenv.sh
+export JAVA_OPTS="JAVA_OPTS="-javaagent:/opt/atlassian/jira/atlassian-agent/atlassian-agent.jar -Dcom.sun.jndi.ldap.object.disableEndpointIdentification=true -Djira.autoexport=false -Dplugin.version.check.enabled=false" ${JAVA_OPTS}"
 
 apt install postgresql
 
