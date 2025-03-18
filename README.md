@@ -2,8 +2,11 @@
 
 
 ```Ubuntu 24.04 LTS```
+
 ```PostgreSQL 15```
+
 ```Java 17```
+
 ```Jira 10.4.1```
 
 
