@@ -3,11 +3,11 @@
 
 ```Ubuntu 24.04 LTS```
 
-```PostgreSQL 15```
+```PostgreSQL: 14```
 
-```Java 17```
+```Java: 17```
 
-```Jira 10.4.1```
+```Jira: 10.4.1```
 
 
 
