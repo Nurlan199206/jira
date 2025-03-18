@@ -15,7 +15,7 @@
 ```
 wget https://product-downloads.atlassian.com/software/confluence/downloads/atlassian-confluence-7.19.5-x64.bin
 
-bash tlassian-jira-software-10.4.1-x64.bin
+bash atlassian-jira-software-10.4.1-x64.bin
 
 sudo mkdir /opt/atlassian/atlassian-agent
 
