@@ -44,3 +44,5 @@ take key from http://yourserver.com:8090 and put in the script
 
 
 ```java -jar /opt/atlassian/atlassian-agent/atlassian-agent.jar -mail 'my@email.com' -n userName -o CompanyName -p conf -s XXXX-XXXX-XXXX-XXXX```
+
+```java -jar atlassian-agent1.jar -d -mail 'my@email.com' -n userName -o Company -p jira -s XXXX-XXXX-XXXX-XXXX```
